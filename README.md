@@ -132,7 +132,7 @@ The dashboard includes:
 
 ### Dashboard Preview
 
-![Power BI Dashboard](dashboard.png)
+![Power BI Dashboard](LOGISTICS COST ANALYTICS DASHBOARD.png)
 
 ### Power BI File
 
